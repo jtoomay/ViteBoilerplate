@@ -1,6 +1,5 @@
 import { css } from '@emotion/react'
 import './App.css'
-// import tw from 'tailwindcss'
 import styled from '@emotion/styled'
 
 // ! This app was created using vite, not create-react-app. Remember to use npm run dev to start the server, not npm start
